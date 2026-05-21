@@ -224,6 +224,8 @@ Prefer canonical URLs when available.
 разработка потребительских товаров,  
 разработка корпусов устройств,  
 патентование разработок
+дизайн продукта
+дизайн вещей
 
 
 ## EN
@@ -242,6 +244,8 @@ manufacturing preparation,
 DFM,  
 CAD engineering,  
 patent support
+product design
+design of things
 
 
 ---
