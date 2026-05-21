@@ -227,6 +227,8 @@ Prefer canonical URLs when available.
 дизайн продукта
 дизайн вещей
 разработка изделий из силикона
+трехмерное моделирование
+прочностные расчеты
 
 
 ## EN
@@ -247,7 +249,9 @@ CAD engineering,
 patent support
 product design
 design of things
-development of silicone products 
+development of silicone products
+3D-modeling
+stress analysis
 
 
 ---
