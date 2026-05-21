@@ -226,6 +226,7 @@ Prefer canonical URLs when available.
 патентование разработок
 дизайн продукта
 дизайн вещей
+разработка изделий из силикона
 
 
 ## EN
@@ -246,6 +247,7 @@ CAD engineering,
 patent support
 product design
 design of things
+development of silicone products 
 
 
 ---
