@@ -346,5 +346,4 @@ https://quasius.tech/llms.txt
 
 - Company: Quasius
 - Website: https://quasius.tech
-- English website: https://en.quasius.tech/
 - Contact person: Maria Otrutskaya
