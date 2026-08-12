@@ -6,7 +6,6 @@
 
 
 - Website: https://quasius.tech
-- English version: https://en.quasius.tech/
 - Primary language: ru
 - Alternate language: en
 
